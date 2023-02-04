@@ -6,14 +6,13 @@ I have used Dalle2 API - Text-to-Image Model to create realistic and fine images
 
 The user can visit the webapp using this [Link](https://yt-thumbnail-production.up.railway.app/)
 
-User has to give a youtube video url then witht the help of Youtube API the title and description of video is taken. It will then used as prompt for the Dalle2 API.
+User has to give a youtube video url then with the help of Youtube API the title and description of video is taken. It will then used as prompt for the Dalle2 API.
 
-It can be used for Thumbnail generation, If user like it they can download the photos by clicking them in .zip format. And if they don't they can regenrate them.
+The YouTube Thumbnail Generator is a useful tool for creating thumbnails for YouTube videos. It has a user-friendly interface that provides options to generate and explore a wide range of thumbnails available. The user can download all the selected photos in a zip file. The application has the potential to become an essential tool for YouTube content creators, helping them to increase the reach of their videos and attract more viewers.
 
 ## To run use the following steps : 
 1. Clone the git repo
-2. Run npm install
-3. Run npm start
-4. Open the link http://localhost:5000 in your browser.
-
-The deployed webapp link : [Link](https://yt-thumbnail-production.up.railway.app/)
+2. Create an OPEN_API_KEY from the webiste
+3. Run npm install
+4. Run npm start
+5. Open the link http://localhost:5000 in your browser.
