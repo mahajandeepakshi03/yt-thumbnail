@@ -75,7 +75,6 @@ body {
 .showcase form input,
 form select {
   font-size: 20px;
-  width: 500px;
   max-width: 500px;
   padding: 1rem;
   border: 1px solid #ccc;
