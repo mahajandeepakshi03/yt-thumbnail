@@ -12,7 +12,7 @@ The YouTube Thumbnail Generator is a useful tool for creating thumbnails for You
 
 ## To run use the following steps : 
 1. Clone the git repo
-2. Create an OPEN_API_KEY from the [website] (https://platform.openai.com/account/api-keys)
+2. Create an OPEN_API_KEY from the [website](https://platform.openai.com/account/api-keys)
 3. Run npm install
 4. Run npm start
 5. Open the link http://localhost:5000 in your browser.
