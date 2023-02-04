@@ -1,7 +1,7 @@
 # Youtube Thumbnail Generator
 
 I have used Dalle2 API - Text-to-Image Model to create realistic and fine images.
-The user can visit the webapp using this [Link](https://yt-thumbnail-production.up.railway.app/)
+The user can visit the webapp using this [Link](https://yt-thumbnail-production.up.railway.app/).
 
 ## About the Website
 
